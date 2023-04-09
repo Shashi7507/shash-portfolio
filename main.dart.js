@@ -51460,11 +51460,11 @@ n=T.fE(p,p,40)
 s=L.nK("Hello",C.Aa.uq(b.a5(o).f.a.a>800?28:22))
 r=L.nK("I'm Shashikant Khetmalis",C.Aw.uq(b.a5(o).f.a.a>800?24:18))
 q=t.fQ
-r=H.c([T.KP(H.c([new T.Bt(C.k,C.pb,C.m7,C.he,p,C.h2,p,H.c([m,n,new T.pU(1,C.ot,T.KP(H.c([s,r,L.nK("Computer Engineer and Full Stack Developer",C.Ar.uq(b.a5(o).f.a.a>800?18:12)),T.fE(p,10,p),new N.yB(new F.Px(),p,p,p,p,p,p,C.fz,p,p,p,p,p,p,L.nK("Resume",C.kE.fw(C.j)),p,p,p,C.w,p,!1,p,p,p,p)],q),C.iE),p)],q),p),T.fE(p,40,p),new T.Da(H.c([F.IX("Github","https://github.com/shashi-root"),T.fE(p,p,10),F.IX("Linkedin","https://www.linkedin.com/in/shashikant-khetmalis-66b25b95/"),T.fE(p,p,10),F.IX("Twitter","https://twitter.com/shashi_0"),T.fE(p,p,10),F.IX("Facebook","https://www.facebook.com/shashyaaaa/"),T.fE(p,p,10),F.IX("Instagram","https://www.instagram.com/shashyaa_1.0/")],q),p)],q),C.he)],q)
+r=H.c([T.KP(H.c([new T.Bt(C.k,C.pb,C.m7,C.he,p,C.h2,p,H.c([m,n,new T.pU(1,C.ot,T.KP(H.c([s,r,L.nK("Computer Engineer and Full Stack Developer",C.Ar.uq(b.a5(o).f.a.a>800?18:12)),T.fE(p,10,p),new N.yB(new F.Px(),p,p,p,p,p,p,C.fz,p,p,p,p,p,p,L.nK("Resume",C.kE.fw(C.j)),p,p,p,C.w,p,!1,p,p,p,p)],q),C.iE),p)],q),p),T.fE(p,40,p),new T.Da(H.c([F.IX("Github","https://github.com/shashi-root"),T.fE(p,p,10),F.IX("Linkedin","https://www.linkedin.com/in/shashikant-khetmalis-66b25b95/"),T.fE(p,p,10),F.IX("Twitter","https://twitter.com/shashi_0"),T.fE(p,p,10),F.IX("Facebook","https://www.facebook.com/shashyaaaa/"),T.fE(p,p,10),F.IX("Instagram","https://www.instagram.com/shashi_2.0.0/")],q),p)],q),C.he)],q)
 s=P.aR([null,0],t.st,t.S)
 return new M.rM(M.xI(p,M.xI(p,T.KP(H.c([new T.yr(1,C.l4,T.a0R(new B.zl(new G.Uc(!0,!0,!0,r,s),p,C.l,!1,p,!0,C.rb,!0,p,1,C.ci,C.xa,p,C.aW,p),p,p),p),new T.lM(C.nM,p,p,T.KP(H.c([new T.kI(C.uT,L.nK("Made with \u2764\ufe0f in Flutter",C.kE),p),new T.kI(C.uS,L.nK("By Shashikant",C.kE),p)],q),C.he),p)],q),C.he),C.w,C.j,p,p,p,p,new V.bi(8,8,8,8),p,p,p),C.w,C.fz,p,p,p,p,new V.bi(8,8,8,8),p,p,p),p)}}
 F.Px.prototype={
-$0:function(){return P.c7([C.av.Fd(window,"https://drive.google.com/file/d/1WzanLIcd8YBId_WNY2w0ZS66MdtYmRBl/view?usp=sharing","Resume")],t.s4)},
+$0:function(){return P.c7([C.av.Fd(window,"https://drive.google.com/file/d/13Mb8_buKA3JHNHgDqDmXaStxnJ-2A6ei/view?usp=sharing","Resume")],t.s4)},
 $S:109}
 F.a_B.prototype={
 $0:function(){return P.c7([C.av.Fd(window,this.a,this.b)],t.s4)},
